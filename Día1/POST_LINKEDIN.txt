@@ -1,8 +1,0 @@
-
-🚀 Día 1/90 — Modelo de Datos en Python
-
-Descubrí que si tu clase implementa solo dos métodos — `__len__` y `__getitem__` — ¡ya se comporta como una lista! Eso habilita `len()`, slicing (`obj[2:5]`) y hasta `random.choice()`.
-
-Lo probé con una baraja de cartas (FrenchDeck). ¿Qué otra colección crearías usando esta técnica?
-
-#Python #FluentPython #DataModel #90DiasDeCodigo #AprenderProgramando #IA
